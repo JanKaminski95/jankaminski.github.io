@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jan"
   avatar           : "photo.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer science engineer currently working as Research Assistant at the IMAGE section in Department of Computer Science, University of Copenhagen, Denmark"
   location         : "Copenhagen, Denmark"
   employer         : "University of Copenhagen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jan.kaminski@di.ku.dk
+  email            : "jan.kaminski@di.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "JanKaminski95"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jan-kaminski-ab0651163/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "jankaminski95"
   vine             :
   weibo            :
   xing             :
