@@ -83,7 +83,7 @@ author:
   name             : "Jan"
   avatar           : "photo.png"
   bio              : "Computer science engineer currently working as Research Assistant at the IMAGE section in Department of Computer Science, University of Copenhagen, Denmark"
-  location         : "Copenhagen, Denmark"
+  location         : # ""
   employer         : "University of Copenhagen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
